@@ -327,7 +327,7 @@ Check each dataset's licence and terms before redistributing its data or derived
 
 ## Author
 
-**Sakshi Chougale**
+**Sanika Pawar**
 
 Project: Face Morphing Attack Detection Using MixNet  
 Live demo: https://sakshi-chougale-face-morphing-attack-detection-app-hpfehr.streamlit.app/
